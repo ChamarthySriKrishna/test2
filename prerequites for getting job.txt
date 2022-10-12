@@ -1,0 +1,18 @@
+ONE PROGRAMMING LANGUAGE.
+ONE DATA BASE LANGUAGE.
+create a code repository for linux commands description
+databases : sql database
+          : no sql database
+MongoDB 
+sql basics
+cloud computing
+aws skill builder : cloud partition
+learn python,c,java
+data stuctures : linear and non linear.
+visual studio code and eclipse editors.
+install git for windows.
+git init
+git push
+git pull
+git add
+git 
